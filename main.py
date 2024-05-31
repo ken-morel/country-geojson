@@ -23,10 +23,10 @@ def get_country_json(nameOrAlpha: str):
         sys.exit(5)
 
     text = re.text
-
+    print(os.walk('.'))
     # the API provides ready prepare data for geoJSON
-    with open(f'./data/{country.alpha_3}.json', 'w') as file:
-        file.write(text)
+    #with open(f'data/{country.alpha_3}.json', 'w') as file:
+    #    file.write(text)
 
     return text
 
@@ -64,11 +64,12 @@ def insert_json(text: str):
 
 
 def create_issue_link(country):
-    return "https://github.com/{repo}/issues/new?{params}".format(
+    return "[{country}](https://github.com/{repo}/issues/new?{params})".format(
         repo=os.environ["GITHUB_REPOSITORY"],
         params=urlencode({
             'title': f'locate: {country}',
             'body': 'Do not touch anything just submit the issue',
+            'country': country.alpha_3,
         }, safe="{}")
     )
 
@@ -85,7 +86,10 @@ def replace_text_between(original_text, markerName, replacement_text):
     leading_text = original_text.split(begin)[0]
     trailing_text = original_text.split(end)[1]
 
-    return leading_text + begin + replacement_text + end + trailing_text
+    return (
+        leading_text + begin + '\n'
+        + replacement_text + '\n' + end + trailing_text
+    )
 
 
 if __name__ == '__main__':
@@ -93,7 +97,4 @@ if __name__ == '__main__':
         os.environ['GITHUB_TOKEN']
     ).get_repo(os.environ['GITHUB_REPOSITORY'])
     issue = repo.get_issue(number=int(os.environ['ISSUE_NUMBER']))
-    issue_author = '@' + issue.user.login
-    repo_owner = '@' + os.environ['REPOSITORY_OWNER']
-
-    ret, reason = main(issue)
+    main(issue)
