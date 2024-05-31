@@ -46,10 +46,10 @@ def main(issue):
 
 
 def insert_json(text: str):
-    with open('./README.md', 'rb') as file:
+    with open('./README.md', encoding='utf-8') as file:
         readme = file.read()
     print(readme)
-    readme = replace_text_between(bytes.decode(readme, 'ansi'), 'geoJSON', text)
+    readme = replace_text_between(readme, 'geoJSON', text)
 
     table = '|couyntry|link|'
     for country in pycountry.countries:
