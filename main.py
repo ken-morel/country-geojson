@@ -49,6 +49,7 @@ def main(issue):
 def insert_json(text: str):
     with open('./README.md', encoding='utf-8') as file:
         readme = file.read()
+    text = f'\n```geojson\n{text}\n```'
     readme = replace_text_between(readme, 'geoJSON', text)
 
     with open('README.md', 'w') as file:
