@@ -1,4 +1,4 @@
-# county geo-json
+# country geo-json
 
 Good day, country-geojson is a little initiative to provide
 the geojson data for markup of a specific country, or countries.
@@ -13,7 +13,7 @@ geojson data
 <!-- END geoJSON -->
 
 ## howto
-simply click the link to a country below
+simply click a link below
 <!-- BEGIN links -->
 links
 <!-- END links -->
