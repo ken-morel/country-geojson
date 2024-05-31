@@ -25,7 +25,8 @@ def get_country_json(nameOrAlpha: str):
     text = re.text
 
     # the API provides ready prepare data for geoJSON
-    open(f'data/{country.alpha_3}.json', 'w').write(text)
+    with open(f'./data/{country.alpha_3}.json', 'w') as file:
+        file.write(text)
 
     return text
 
