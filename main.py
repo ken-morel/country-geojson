@@ -23,10 +23,11 @@ def get_country_json(nameOrAlpha: str):
         sys.exit(5)
 
     text = re.text
-    print(os.walk('.'))
-    # the API provides ready prepare data for geoJSON
-    #with open(f'data/{country.alpha_3}.json', 'w') as file:
-    #    file.write(text)
+    try:
+        with open(f'data/{country.alpha_3}.json', 'w') as file:
+            file.write(text)
+    except Exception:
+        pass
 
     return text
 
@@ -48,15 +49,7 @@ def main(issue):
 def insert_json(text: str):
     with open('./README.md', encoding='utf-8') as file:
         readme = file.read()
-    print(readme)
     readme = replace_text_between(readme, 'geoJSON', text)
-
-    table = '|couyntry|link|'
-    for country in pycountry.countries:
-        issue_link = create_issue_link(country.name)
-        table += f'\n|{country.name}|{issue_link}'
-
-    readme = replace_text_between(readme, 'countryList', table)
 
     with open('README.md', 'w') as file:
         file.write(readme)

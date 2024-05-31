@@ -7,13 +7,12 @@ It is inspired from [Play-Chess](https://github.com/the1Riddle/Play-Chess)
 of the1Riddle and relies on similar concepts.
 check it out at https://github.com/the1Riddle/Play-Chess
 
-<!-- BEGIN countryList -->
-|couyntry|link|
+|country|link|
 |Aruba|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Aruba&body=Do+not+touch+anything+just+submit+the+issue
 |Afghanistan|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Afghanistan&body=Do+not+touch+anything+just+submit+the+issue
 |Angola|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Angola&body=Do+not+touch+anything+just+submit+the+issue
 |Anguilla|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Anguilla&body=Do+not+touch+anything+just+submit+the+issue
-|Åland Islands|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+%C3%85land+Islands&body=Do+not+touch+anything+just+submit+the+issue
+|Aland Islands|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+%C3%85land+Islands&body=Do+not+touch+anything+just+submit+the+issue
 |Albania|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Albania&body=Do+not+touch+anything+just+submit+the+issue
 |Andorra|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Andorra&body=Do+not+touch+anything+just+submit+the+issue
 |United Arab Emirates|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+United+Arab+Emirates&body=Do+not+touch+anything+just+submit+the+issue
@@ -36,7 +35,7 @@ check it out at https://github.com/the1Riddle/Play-Chess
 |Bahrain|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Bahrain&body=Do+not+touch+anything+just+submit+the+issue
 |Bahamas|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Bahamas&body=Do+not+touch+anything+just+submit+the+issue
 |Bosnia and Herzegovina|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Bosnia+and+Herzegovina&body=Do+not+touch+anything+just+submit+the+issue
-|Saint Barthélemy|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Saint+Barth%C3%A9lemy&body=Do+not+touch+anything+just+submit+the+issue
+|Saint Barthelemy|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Saint+Barth%C3%A9lemy&body=Do+not+touch+anything+just+submit+the+issue
 |Belarus|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Belarus&body=Do+not+touch+anything+just+submit+the+issue
 |Belize|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Belize&body=Do+not+touch+anything+just+submit+the+issue
 |Bermuda|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Bermuda&body=Do+not+touch+anything+just+submit+the+issue
@@ -53,7 +52,7 @@ check it out at https://github.com/the1Riddle/Play-Chess
 |Switzerland|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Switzerland&body=Do+not+touch+anything+just+submit+the+issue
 |Chile|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Chile&body=Do+not+touch+anything+just+submit+the+issue
 |China|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+China&body=Do+not+touch+anything+just+submit+the+issue
-|Côte d'Ivoire|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+C%C3%B4te+d%27Ivoire&body=Do+not+touch+anything+just+submit+the+issue
+|Cote d'Ivoire|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+C%C3%B4te+d%27Ivoire&body=Do+not+touch+anything+just+submit+the+issue
 |Cameroon|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Cameroon&body=Do+not+touch+anything+just+submit+the+issue
 |Congo, The Democratic Republic of the|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Congo%2C+The+Democratic+Republic+of+the&body=Do+not+touch+anything+just+submit+the+issue
 |Congo|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Congo&body=Do+not+touch+anything+just+submit+the+issue
@@ -196,7 +195,7 @@ check it out at https://github.com/the1Riddle/Play-Chess
 |Palestine, State of|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Palestine%2C+State+of&body=Do+not+touch+anything+just+submit+the+issue
 |French Polynesia|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+French+Polynesia&body=Do+not+touch+anything+just+submit+the+issue
 |Qatar|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Qatar&body=Do+not+touch+anything+just+submit+the+issue
-|Réunion|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+R%C3%A9union&body=Do+not+touch+anything+just+submit+the+issue
+|Reunion|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+R%C3%A9union&body=Do+not+touch+anything+just+submit+the+issue
 |Romania|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Romania&body=Do+not+touch+anything+just+submit+the+issue
 |Russian Federation|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Russian+Federation&body=Do+not+touch+anything+just+submit+the+issue
 |Rwanda|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Rwanda&body=Do+not+touch+anything+just+submit+the+issue
@@ -235,7 +234,7 @@ check it out at https://github.com/the1Riddle/Play-Chess
 |Tonga|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Tonga&body=Do+not+touch+anything+just+submit+the+issue
 |Trinidad and Tobago|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Trinidad+and+Tobago&body=Do+not+touch+anything+just+submit+the+issue
 |Tunisia|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Tunisia&body=Do+not+touch+anything+just+submit+the+issue
-|Türkiye|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+T%C3%BCrkiye&body=Do+not+touch+anything+just+submit+the+issue
+|Turkiye|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+T%C3%BCrkiye&body=Do+not+touch+anything+just+submit+the+issue
 |Tuvalu|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Tuvalu&body=Do+not+touch+anything+just+submit+the+issue
 |Taiwan, Province of China|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Taiwan%2C+Province+of+China&body=Do+not+touch+anything+just+submit+the+issue
 |Tanzania, United Republic of|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Tanzania%2C+United+Republic+of&body=Do+not+touch+anything+just+submit+the+issue
@@ -257,7 +256,7 @@ check it out at https://github.com/the1Riddle/Play-Chess
 |Yemen|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Yemen&body=Do+not+touch+anything+just+submit+the+issue
 |South Africa|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+South+Africa&body=Do+not+touch+anything+just+submit+the+issue
 |Zambia|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Zambia&body=Do+not+touch+anything+just+submit+the+issue
-|Zimbabwe|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Zimbabwe&body=Do+not+touch+anything+just+submit+the+issue<!-- END countryList -->
+|Zimbabwe|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Zimbabwe&body=Do+not+touch+anything+just+submit+the+issue
 
 
 <!-- BEGIN geoJSON -->
