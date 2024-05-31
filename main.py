@@ -36,7 +36,7 @@ def parse_issue_country(title: str):
         return title[8:]
 
 
-def main(issue, issue_author, repo_owner):
+def main(issue):
     country_name = parse_issue_country(issue.title)
 
     geojson = get_country_json(country_name)
