@@ -1,16 +1,16 @@
-import json
-
 import os
-import sys
 import requests
+import sys
+
 from github import Github
 
 import pycountry
+
 from urllib.parse import urlencode
 
 
 def get_country_json(nameOrAlpha: str):
-    country = pycountry.lookup(nameOrAlpha)
+    country = pycountry.countries.lookup(nameOrAlpha)
 
     countryCode = country.alpha_3
 
