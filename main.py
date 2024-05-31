@@ -47,11 +47,15 @@ def main(issue):
 
 
 def insert_json(text: str):
-    with open('./README.md', encoding='utf-8') as file:
+    with open('./README-template.md', encoding='utf-8') as file:
         readme = file.read()
     text = f'\n```geojson\n{text}\n```'
     readme = replace_text_between(readme, 'geoJSON', text)
 
+    links = ''
+    for country in pycountry.countries:
+        links += create_issue_link(country) + "<br />\n"
+    readme = replace_text_between(readme, 'links', links)
     with open('README.md', 'w') as file:
         file.write(readme)
 
@@ -59,10 +63,13 @@ def insert_json(text: str):
 
 
 def create_issue_link(country):
-    return "[{country}](https://github.com/{repo}/issues/new?{params})".format(
+    return (
+        f'[{country.name}](https://github.com'
+        '/{repo}/issues/new?{params})'
+    ).format(
         repo=os.environ["GITHUB_REPOSITORY"],
         params=urlencode({
-            'title': f'locate: {country}',
+            'title': f'locate: {country.alpha_3}',
             'body': 'Do not touch anything just submit the issue',
             'country': country.alpha_3,
         }, safe="{}")
