@@ -62,7 +62,7 @@ check it out at https://github.com/the1Riddle/Play-Chess
 |Cabo Verde|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Cabo+Verde&body=Do+not+touch+anything+just+submit+the+issue
 |Costa Rica|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Costa+Rica&body=Do+not+touch+anything+just+submit+the+issue
 |Cuba|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Cuba&body=Do+not+touch+anything+just+submit+the+issue
-|Curaçao|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Cura%C3%A7ao&body=Do+not+touch+anything+just+submit+the+issue
+|Curacao|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Cura%C3%A7ao&body=Do+not+touch+anything+just+submit+the+issue
 |Christmas Island|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Christmas+Island&body=Do+not+touch+anything+just+submit+the+issue
 |Cayman Islands|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Cayman+Islands&body=Do+not+touch+anything+just+submit+the+issue
 |Cyprus|https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Cyprus&body=Do+not+touch+anything+just+submit+the+issue
