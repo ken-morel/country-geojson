@@ -3,7 +3,7 @@
 Good day, country-geojson is a little initiative to provide
 the geojson data for markup of a specific country, or countries.
 
-It is inspired from [Play-Chess](https://github.com/the1Riddle/Play-Chess)
+It is inspired from [Play-Chess](https://github.com/the1Riddle/Play-Chess)<br />
 of the1Riddle and relies on similar concepts.
 check it out at https://github.com/the1Riddle/Play-Chess
 
@@ -56,7 +56,7 @@ check it out at https://github.com/the1Riddle/Play-Chess
 [Switzerland](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Switzerland&body=Do+not+touch+anything+just+submit+the+issue)<br />
 [Chile](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Chile&body=Do+not+touch+anything+just+submit+the+issue)<br />
 [China](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+China&body=Do+not+touch+anything+just+submit+the+issue)<br />
-[Cote d'Ivoire](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+C%C3%B4te+d%27Ivoire&body=Do+not+touch+anything+just+submit+the+issue)
+[Cote d'Ivoire](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+C%C3%B4te+d%27Ivoire&body=Do+not+touch+anything+just+submit+the+issue)<br />
 [Cameroon](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Cameroon&body=Do+not+touch+anything+just+submit+the+issue)<br />
 [Congo, The Democratic Republic of the](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Congo%2C+The+Democratic+Republic+of+the&body=Do+not+touch+anything+just+submit+the+issue)<br />
 [Congo](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Congo&body=Do+not+touch+anything+just+submit+the+issue)<br />
@@ -99,7 +99,7 @@ check it out at https://github.com/the1Riddle/Play-Chess
 [Guinea](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Guinea&body=Do+not+touch+anything+just+submit+the+issue)<br />
 [Guadeloupe](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Guadeloupe&body=Do+not+touch+anything+just+submit+the+issue)<br />
 [Gambia](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Gambia&body=Do+not+touch+anything+just+submit+the+issue)<br />
-[Guinea-Bissau](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Guinea-Bissau&body=Do+not+touch+anything+just+submit+the+issue)
+[Guinea-Bissau](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Guinea-Bissau&body=Do+not+touch+anything+just+submit+the+issue)<br />
 [Equatorial Guinea](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Equatorial+Guinea&body=Do+not+touch+anything+just+submit+the+issue)<br />
 [Greece](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Greece&body=Do+not+touch+anything+just+submit+the+issue)<br />
 [Grenada](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Grenada&body=Do+not+touch+anything+just+submit+the+issue)<br />
@@ -136,7 +136,7 @@ check it out at https://github.com/the1Riddle/Play-Chess
 [Saint Kitts and Nevis](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Saint+Kitts+and+Nevis&body=Do+not+touch+anything+just+submit+the+issue)<br />
 [Korea, Republic of](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Korea%2C+Republic+of&body=Do+not+touch+anything+just+submit+the+issue)<br />
 [Kuwait](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Kuwait&body=Do+not+touch+anything+just+submit+the+issue)<br />
-[Lao People's Democratic Republic](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Lao+People%27s+Democratic+Republic&body=Do+not+touch+anything+just+submit+the+issue)
+[Lao People's Democratic Republic](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Lao+People%27s+Democratic+Republic&body=Do+not+touch+anything+just+submit+the+issue)<br />
 [Lebanon](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Lebanon&body=Do+not+touch+anything+just+submit+the+issue)<br />
 [Liberia](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Liberia&body=Do+not+touch+anything+just+submit+the+issue)<br />
 [Libya](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Libya&body=Do+not+touch+anything+just+submit+the+issue)<br />
@@ -234,7 +234,7 @@ check it out at https://github.com/the1Riddle/Play-Chess
 [Tajikistan](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Tajikistan&body=Do+not+touch+anything+just+submit+the+issue)<br />
 [Tokelau](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Tokelau&body=Do+not+touch+anything+just+submit+the+issue)<br />
 [Turkmenistan](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Turkmenistan&body=Do+not+touch+anything+just+submit+the+issue)<br />
-[Timor-Leste](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Timor-Leste&body=Do+not+touch+anything+just+submit+the+issue)
+[Timor-Leste](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Timor-Leste&body=Do+not+touch+anything+just+submit+the+issue)<br />
 [Tonga](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Tonga&body=Do+not+touch+anything+just+submit+the+issue)<br />
 [Trinidad and Tobago](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Trinidad+and+Tobago&body=Do+not+touch+anything+just+submit+the+issue)<br />
 [Tunisia](https://github.com/ken-morel/country-geojson/issues/new?title=locate%3A+Tunisia&body=Do+not+touch+anything+just+submit+the+issue)<br />
