@@ -9,8 +9,11 @@ check it out at https://github.com/the1Riddle/Play-Chess
 
 
 <!-- BEGIN geoJSON -->
-
+geojson data
 <!-- END geoJSON -->
 
+## howto
+simply click the link to a country below
 <!-- BEGIN links -->
+links
 <!-- END links -->
